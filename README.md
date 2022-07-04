@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xKingDark an new account but an old Github user, Making Minecraft Bedrock addons and making Discord bots using Node.js and JavaScript!
+- 👋 Hi, I’m @xKingDark in a new account but an old Github user, Making Minecraft Bedrock addons and making Discord Bots and Projects using Node.js and JavaScript but might move to other languages soon!
 
 <!---
 xKingDark/xKingDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
