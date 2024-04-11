@@ -1,4 +1,4 @@
-👋 Hii! I'm King! :3
+👋 Heya! I'm King! :3
 
 - I love coding and creating Minecraft related stuff! :D
 - Currently trying to learn **Rust**!
