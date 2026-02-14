@@ -7,8 +7,8 @@
 I enjoy exploring how things work, taking things apart,
 and building new things from what I learn.
 
-## Languages & Tools
-<p align="left">
+## 🛠 Languages & Tools
+<p align="center">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" height="40" src=".github/rust.png" />
