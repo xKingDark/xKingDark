@@ -1,8 +1,13 @@
-👋 Heya! I'm King! :D
+<div align="center">
 
-A Minecraft add-on creator and a programmer in my free time.
+  ## 👋🏻 Hey! I'm King.
+  I build tools and creative infrastructure around **Minecraft**. ✨
+</div>
 
-## Languages and Tools
+I enjoy exploring how things work, taking things apart,
+and building new things from what I learn.
+
+## Languages & Tools
 <p align="left">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -18,6 +23,6 @@ A Minecraft add-on creator and a programmer in my free time.
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
 </p>
 <!---
-DarkGamerYT/DarkGamerYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+xKingDark/xKingDark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
