@@ -4,8 +4,10 @@
   I build tools and creative infrastructure around **Minecraft**. ✨
 </div>
 
-I enjoy exploring how things work, taking things apart,
-and building new things from what I learn.
+I enjoy exploring how things work, taking them apart,
+and building new ideas from what I discover.
+
+<br>
 
 <div align="center">
   
