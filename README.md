@@ -7,7 +7,7 @@
 I enjoy exploring how things work, taking them apart,
 and building new ideas from what I discover.
 
-<br>
+Most of my work revolves around experimenting and pushing the boundaries of Minecraft.
 
 <div align="center">
   
